@@ -7,4 +7,5 @@ Pure Python implementation of MySQL replication protocol.
 | [#424](https://github.com/julien-duponchelle/python-mysql-replication/pull/424) | Fix typo in bitmap.py| []() |
 | [#458](https://github.com/julien-duponchelle/python-mysql-replication/pull/458) | Enhance Data Integrity with Binlog Event Checksum Verification| [0.44.0](https://pypi.org/project/mysql-replication/) |
 | [#460](https://github.com/julien-duponchelle/python-mysql-replication/pull/460) | Add logging feature for BinLogStreamReader| []() |
+| [#468](https://github.com/julien-duponchelle/python-mysql-replication/pull/468) | Fix GitHub Actions Failure| []() |
 
