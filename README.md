@@ -8,4 +8,5 @@ Pure Python implementation of MySQL replication protocol.
 | [#458](https://github.com/julien-duponchelle/python-mysql-replication/pull/458) | Enhance Data Integrity with Binlog Event Checksum Verification| [0.44.0](https://pypi.org/project/mysql-replication/) |
 | [#460](https://github.com/julien-duponchelle/python-mysql-replication/pull/460) | Add logging feature for BinLogStreamReader| []() |
 | [#468](https://github.com/julien-duponchelle/python-mysql-replication/pull/468) | Fix GitHub Actions Failure| []() |
+| [#563](https://github.com/julien-duponchelle/python-mysql-replication/pull/563#event-10704036974) | Add error logging for crc32 validation failures| []() |
 
